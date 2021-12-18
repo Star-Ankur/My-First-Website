@@ -1,4 +1,4 @@
 # Hello-World
-my first repository
-I am Ankur Rathore 
-MY first towards learning Github
+my first repository.
+I am Ankur Rathore .
+MY first step towards learning Github
